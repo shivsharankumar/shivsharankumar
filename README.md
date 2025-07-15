@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shiv sharan kumar
 - 👀 I’m interested in Learning New Technologies
 - 🌱 I’m currently learning Full Stack AI Developer
-- 💞️ I’m looking to collaborate on AI ML,Azure Data Engineering,Pyspark,SQL ,react,Django,Python Projects as well 
+- 💞️ I’m looking to collaborate on AI ML,Azure ,AWS ,Pyspark ,SQL,react,Django,Python,Flask,FastAPI Projects as well 
 - 📫 You Can Reach Me On shivsharan47@gmail.com
 
 <!---
